@@ -9,7 +9,6 @@ void startLogging();
 
 int main()
 {
-    ShowWindow(GetConsoleWindow(), SW_HIDE);
     startLogging();
     return 0;
 }
